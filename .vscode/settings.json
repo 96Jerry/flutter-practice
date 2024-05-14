@@ -1,3 +1,4 @@
 {
-  "cmake.sourceDirectory": "C:/Users/W10P/Desktop/Repositories/flutter-practice/windows"
+  "cmake.sourceDirectory": "C:/Users/W10P/Desktop/Repositories/flutter-practice/windows",
+  "cmake.configureOnOpen": true
 }
